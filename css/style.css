@@ -1,0 +1,19 @@
+body {
+    background: aquamarine;
+}
+
+p {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.deco1 {
+    color: blue;
+}
+
+.deco2 {
+    color: salmon;
+}
+
+.deco3 {
+    color: rgb(100, 250, 100);
+}
