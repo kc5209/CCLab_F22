@@ -1,0 +1,38 @@
+html,
+body {
+  margin: 10px;
+  padding: 0;
+  background-color: beige;
+}
+
+h1 {
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+p1 {
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  padding-left: 465px;
+}
+
+canvas {
+  display: block;
+  padding-left: 465px;
+}
+
+.box {
+  width: 250px;
+  height: 150px;
+  margin: 50px;
+  padding-bottom: 5px;
+  border-width: 5px;
+  border-color: rgb(234, 31, 99);
+  border-style: dashed;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+button {
+  margin-left: 75%;
+  margin-bottom: 50px;
+  border-color: rgb(234, 31, 99);
+  border-width: 2px;
+}
