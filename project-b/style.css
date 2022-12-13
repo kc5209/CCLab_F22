@@ -1,0 +1,104 @@
+body {
+    margin: 0;
+    padding: 0;
+    /* background-color: blanchedalmond; */
+
+}
+
+html,
+body {
+    height: 100%;
+    font-family: 'Roboto', sans-serif;
+}
+
+html,
+body,
+h1,
+p {
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    font-weight: bold;
+    font-family: 'Archivo Black', sans-serif;
+}
+
+p1 {
+    font-family: 'Anton', sans-serif;
+    font-weight: lighter;
+    font-size: x-large;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+
+p {
+    font-family: 'Times New Roman', Times, serif;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+
+canvas {
+    display: block;
+}
+
+/* #canvasContainer {
+    
+} */
+
+.div-header {
+    /* background-color: aqua; */
+    height: 50px;
+    text-align: center;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.div-content {
+    /* background-color: blueviolet; */
+    height: 600px;
+
+    display: flex;
+    /* justify-content: center; */
+    /* align-items: center; */
+}
+
+.div-left {
+    /* background-color: greenyellow; */
+    width: 70%;
+}
+
+.div-right {
+    /* background-color: gold; */
+    width: 30%;
+}
+
+#canvasContainer {
+    /* background-color: white; */
+    width: 100%;
+    height: auto;
+}
+
+.box {
+    padding: 10px;
+}
+
+.div-left-bottom {
+    display: flex;
+}
+
+img {
+    width: 100%;
+    height: auto;
+    filter: grayscale()
+}
+
+video {
+    width: 100%;
+    height: auto;
+    filter: grayscale();
+}
