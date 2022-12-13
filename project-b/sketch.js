@@ -8,7 +8,7 @@ let buildings = []; // empty;
 let cvs;
 
 function setup() {
-    cvs = createCanvas(1100, 500);
+    cvs = createCanvas(1000, 500);
     cvs.parent("canvasContainer");
     background(200, 40);
     angleMode(DEGREES);
